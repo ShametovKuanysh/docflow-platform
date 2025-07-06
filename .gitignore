@@ -1,0 +1,17 @@
+# Go
+/backend/bin/
+/backend/tmp/
+/backend/.env
+
+# Node
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+
+# System
+*.log
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
